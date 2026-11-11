@@ -7,6 +7,18 @@
 
 Python · uv · Gemini via LangChain `init_chat_model` · FastAPI · Streamlit · SQLite
 
+## Architecture at a glance
+
+![Project architecture](assets/screenshots/architecture.svg)
+
+Source-based architecture overview. Follow the [walkthrough](docs/WALKTHROUGH.md) to run the actual workflow.
+
+### Actual application preview
+
+![InsightForge running with public demo data](assets/screenshots/demo.png)
+
+Captured from the local common-runtime UI using only the public Iris/NIST fixtures. Offline model routing and hashing embeddings are explicitly labeled. The standalone entry point opens this workflow directly.
+
 ## What this project demonstrates
 
 Supervisor → Data / RAG / ML / Tools / Memory
