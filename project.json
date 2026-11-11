@@ -1,0 +1,10 @@
+{
+  "title": "InsightForge",
+  "repository": "insightforge-multi-agent-analytics",
+  "description": "LangGraph supervisor with Data, RAG, ML, Tools and Memory agents; CSV/PDF analysis, model comparison and durable sessions.",
+  "demo": "insight",
+  "url": "https://github.com/Swaroopfullstack/insightforge-multi-agent-analytics",
+  "source_revision": "d4880b602e4748815f0fd0533d4dcb892585e02a",
+  "source_project": "01-insightforge",
+  "runtime": "vendored self-contained portfolio package"
+}
